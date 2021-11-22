@@ -7,7 +7,6 @@ LABEL "com.github.actions.color"="green"
 
 LABEL version="1.0"
 LABEL repository="https://github.com/BobArcem/s3-sync-with-cloudfront-invalidation"
-LABEL homepage="https://fortressdao.finance"
 LABEL maintainer="BobArcem"
 
 ENV AWSCLI_VERSION="1.18.210"
