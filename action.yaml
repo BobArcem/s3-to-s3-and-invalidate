@@ -1,0 +1,9 @@
+name: "Copy S3 Test to Live and Invalidate CloudFront"
+description: "Copy S3 to S3 and then Invalidate Cloudfront Cache"
+author: BobArcem
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: refresh-cw
+  color: green
